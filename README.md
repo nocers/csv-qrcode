@@ -30,7 +30,10 @@
  scale: 二维码图片与logo的宽度比例，默认为5，越小logo越大
  
  
- example：
+ 
+ 
+ example
+ 
  var cq = require('csv-qrcode');
  
  cq.csv_qrcode({filePath:'test.csv',imagePath:'image',isLogo:true,logoPath:'logo.png'});
