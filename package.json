@@ -1,0 +1,21 @@
+{
+  "name": "csv-qrcode",
+  "version": "0.0.1",
+  "description": "get url from csv file to generate qrcode",
+  "main": "csv-qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "qrcode"
+  ],
+  "author": "nocer",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^0.1.0",
+    "images": "^2.1.3",
+    "qrcode-npm": "0.0.3",
+    "stream-transform": "0.0.7"
+  }
+}
